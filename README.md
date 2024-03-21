@@ -1,1 +1,1 @@
-# Sudoku_C-
+# In this repository, you can find the updated game of SUDOKU I have created, the updated UML and the ERD corresponding to the game. As well as the ERD E4 exercice 1 and the start of the code for the E4 session (database).
